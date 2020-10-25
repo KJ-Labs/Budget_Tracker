@@ -1,4 +1,3 @@
-  
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
@@ -6,7 +5,7 @@ const FILES_TO_CACHE = [
     '/app.bundle.js',
     '/chart.bundle.js'
 ];
-  
+
 const CACHE_NAME = 'static-cache-v1';
 const DATA_CACHE_NAME = 'data-cache-v1';
 
@@ -51,3 +50,4 @@ self.onsync = function(event) {
     if(event.tag == 'db-sync') {
         event.waitUntil(sendToServer());
     }
+}
