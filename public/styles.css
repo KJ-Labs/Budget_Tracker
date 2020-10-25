@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  color: #008a00;
+  color: #189AB4;
 }
 
 button, input {
@@ -81,7 +81,7 @@ tr:nth-child(even) {
 }
 
 .btn-primary {
-  background-color:#008a00;
+  background-color:#189AB4;
   padding-left: 30px;
   padding-right: 30px;
   border:none;
@@ -91,12 +91,12 @@ tr:nth-child(even) {
 .btn-primary:hover {
   color:  #5D5D5D;
   background-color: #F0F0F0;
-  border-color: #008a00;
+  border-color:#189AB4;
   cursor: pointer;
 }
 
 .btn-secondary {
-  background-color:#F0F0F0;
+  background-color:grey;
   border-color: #F0F0F0;
   color: #5D5D5D;
 }
