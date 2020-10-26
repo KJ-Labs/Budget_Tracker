@@ -51,6 +51,6 @@ The owner of this project is KJ-Labs, you're welcome to contribute.
 - [Project Repo](https://github.com/KJ-Labs/Budget_Tracker)
 
 ## Screenshots
-![Git](screenshot.PNG)  
+![Git](Screenshot.PNG)  
 
 
