@@ -33,7 +33,7 @@ tr:nth-child(even) {
 }
 
 .error {
-  color: #008a00;
+  color: #189AB4;
 }
 
 .wrapper {
@@ -103,7 +103,7 @@ tr:nth-child(even) {
 
 .btn-secondary:hover {
   color: white;
-  background-color: #008a00;
-  border-color: #008a00;
+  background-color: #189AB4;
+  border-color: #189AB4;
   cursor: pointer;
 }
